@@ -78,7 +78,7 @@ class ImageViewScreen extends StatelessWidget {
           IconButton(
             icon: Icon(Icons.save),
             onPressed: () {
-              //здесь добавляем логику сохранения изображения в галерею
+              //логика сохранения изображения в галерею,добавить
             },
           ),
         ],
