@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^4.3.3 # Зависимость для кеширования изображений
+  http: ^0.13.3 # Зависимость для HTTP-запросов
