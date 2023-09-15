@@ -21,7 +21,7 @@ class _ImageGridScreenState extends State<ImageGridScreen> {
   final List<String> imageUrls = [
     "https://example.com/image1.jpg",
     "https://example.com/image2.jpg",
-    // Добавьте здесь ссылки на остальные изображения
+    // ссылки на остальные изображения
   ];
 
   int currentPage = 0;
@@ -78,7 +78,7 @@ class ImageViewScreen extends StatelessWidget {
           IconButton(
             icon: Icon(Icons.save),
             onPressed: () {
-              //логика сохранения изображения в галерею,добавить
+              //логика сохранения изображения в галерею
             },
           ),
         ],
